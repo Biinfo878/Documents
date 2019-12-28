@@ -15,6 +15,7 @@ namespace WindowsFormsApp4
         public Form3()
         {
             InitializeComponent();
+            
         }
     }
 }

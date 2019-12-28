@@ -59,7 +59,7 @@
     <Reference Include="System.Data.DataSetExtensions" />
     <Reference Include="System.Net.Http" />
     <Reference Include="TWS">
-      <HintPath>D:\UtilityAndPrograms\Programming\CustomControls\TWS.dll</HintPath>
+      <HintPath>G:\Projects\TWSSystem\TerminalsSolution\TerminalsSolution\TWSClassLibrary\bin\Debug\TWS.dll</HintPath>
     </Reference>
   </ItemGroup>
   <ItemGroup>
