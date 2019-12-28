@@ -48,9 +48,9 @@
     <OptionInfer>On</OptionInfer>
   </PropertyGroup>
   <ItemGroup>
-    <Reference Include="SMSCore">
-      <HintPath>G:\Projects\SmsSystem\SmsSystem Solution\SMSClassLibrary\bin\Debug\SMSCore.dll</HintPath>
-      <Private>True</Private>
+    <Reference Include="SMSCore, Version=1.0.0.0, Culture=neutral, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\..\..\..\..\..\ProjectRefrences\SMSCore.dll</HintPath>
     </Reference>
     <Reference Include="System" />
     <Reference Include="System.Data" />
